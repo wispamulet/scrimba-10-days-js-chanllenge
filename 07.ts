@@ -1,5 +1,5 @@
 /*
-- Day 6: Number Factorial
+- Day 7: Number Factorial
   In this challenge, you'll:
 
   Return the factorial of the provided integer.
